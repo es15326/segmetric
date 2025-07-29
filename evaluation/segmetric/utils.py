@@ -3,7 +3,7 @@ import errno
 import numpy as np
 from PIL import Image
 import warnings
-from source.dataset import Dataset
+from segmetric.dataset import Dataset
 
 
 def _pascal_color_map(N=256, normalized=False):

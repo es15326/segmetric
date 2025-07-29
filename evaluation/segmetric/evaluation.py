@@ -10,10 +10,10 @@ import warnings
 import numpy as np
 from tqdm import tqdm
 
-from source.dataset import Dataset
-from source.metrics import db_eval_iou, db_eval_boundary
-from source.results import Results
-from source import utils
+from segmetric.dataset import Dataset
+from segmetric.metrics import db_eval_iou, db_eval_boundary
+from segmetric.results import Results
+from segmetric import utils
 
 def _evaluate_sequence(sequence_name: str, dataset_root: Path, gt_set: str, results_path: Path) -> Dict[str, Any]:
     """

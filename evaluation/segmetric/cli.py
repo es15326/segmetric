@@ -7,7 +7,7 @@ from typing import Tuple
 import pandas as pd
 import numpy as np
 
-from source.evaluation import Evaluation
+from segmetric.evaluation import Evaluation
 
 def run_evaluation(results_path: Path, dataset_path: Path, subset: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
     """
