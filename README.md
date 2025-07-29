@@ -33,7 +33,7 @@ We recommend using a virtual environment.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/segmetric.git
+git clone https://github.com/es15326/segmetric.git
 cd segmetric/
 
 # Install in editable (development) mode
