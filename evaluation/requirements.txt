@@ -1,0 +1,9 @@
+# For easy installation: pip install -r requirements.txt
+numpy
+Pillow
+opencv-python
+pandas
+scikit-image
+scikit-learn
+tqdm
+scipy
