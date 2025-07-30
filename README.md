@@ -127,32 +127,6 @@ Total time: 1.43 seconds
 
 ---
 
-## 📘 Citation
-
-If SegMetric helps your research, please cite the [DAVIS 2017 challenge](https://davischallenge.org/) and mention SegMetric in your acknowledgments. A custom BibTeX entry is coming soon.
-
----
-
-## 🤝 Contributing
-
-We welcome PRs, bug reports, and feature suggestions!  
-To contribute:
-
-```bash
-# Make changes in a feature branch
-git checkout -b feature/your-feature-name
-```
-
-Then open a pull request 🚀
-
----
-
-## 📬 Contact
-
-For questions, please reach out to: **[yourname@domain.edu]**
-
----
-
 ## 🧪 License
 
 This project is licensed under the **MIT License**.
